@@ -1,0 +1,20 @@
+- Hoàn thiện 1 project laravel 
+- Đóng gói:
++ Source code
++ Database: Migrations Seeder
+- Pusj lên git
+
+Bàn giao: Share repo git
+
+- composer update
+- php artisan migrate
+- php artisan db:seed
+- php artisan cache:clear
+- php artisan config:clear
+- php artisan route:clear
+- php artisan view:clear
+
+Tông hợp thành 1 câu lệnh artisan install
+
+
+
